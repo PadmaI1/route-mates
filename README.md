@@ -1,5 +1,3 @@
-<p><img src="https://raw.githubusercontent.com/padmaiyer/osmd/main/screenshots/logo.jpeg" alt="logo" width="20%" /></p>
-
 # OSMD Book Cab (One Source Multiple Destination)
 
 - [About Project](#About-Project)
@@ -90,3 +88,7 @@ The Bellman–Ford algorithm is an algorithm that computes shortest paths from a
 - #### Run Tests using pytest
 	- ```pip install pytest```
 	- ```python -m pytest```
+
+## Author
+
+Padma Iyer <padmaiyer01@protonmail.com>
