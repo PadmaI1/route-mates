@@ -19,7 +19,7 @@
 
 # About RouteMates
 
-- Book Cab is a web app that optimizes the rideshare booking approach. This app serves as a single source to help users find the shortest path for multiple destination, shared rides.
+- RouteMates is a shared-cab booking app. It groups up to four riders who start from the same place but go to different destinations, then works out the cheapest route for everyone. Riders see their route and co-passengers, chat with them, and pay in Ethereum (Sepolia testnet) through a smart contract.
 
 - The goal of this project is to figure out the shortest feasible path from a given starting point using an algorithm. The performance of the developed algorithm will be studied for practical use.
 
