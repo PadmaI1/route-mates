@@ -1,4 +1,4 @@
-name: OSMD BookCab run tests
+name: RouteMates run tests
 
 on:
     push:

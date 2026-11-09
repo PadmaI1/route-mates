@@ -1,4 +1,4 @@
-# OSMD Book Cab (One Source Multiple Destination)
+# RouteMates (One Cab, Many Stops)
 
 - [About Project](#About-Project)
 
@@ -17,7 +17,7 @@
 
 <a id="About-Project"></a>
 
-# About OSMD Book Cab
+# About RouteMates
 
 - Book Cab is a web app that optimizes the rideshare booking approach. This app serves as a single source to help users find the shortest path for multiple destination, shared rides.
 

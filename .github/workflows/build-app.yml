@@ -1,4 +1,4 @@
-name: OSMD BookCab
+name: RouteMates build
 
 on:
     push:
